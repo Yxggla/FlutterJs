@@ -85,4 +85,4 @@ The main page is simple to build, and the database part uses Sqlite for login re
 ## App简介视频 / App introduction Video
 
 
-https://github.com/user-attachments/assets/126603c3-1982-4996-893c-101ec70a12d8
+[https://github.com/user-attachments/assets/126603c3-1982-4996-893c-101ec70a12d8](https://github.com/user-attachments/assets/7e8760ca-d2ae-4f3a-a56d-62dc29d389cc)
